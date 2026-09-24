@@ -2,47 +2,47 @@
 
 ## Team Information
 
-- Team name:
-- Team members:
-- Date:
+- Team name: pardon my synthax
+- Team members: Daniel Salazar, Austin H, Michael A
+- Date:09/24/2026
 
 ## AI Use
 
 Did your team use an AI tool?
 
-- [ ] Yes
+- [X] Yes
 - [ ] No
 
 If no, write “No AI tool was used” in the Summary.
 
 ## Tool Used
 
-- Tool:
+- Tool:Copilot
 
 ## Assistance Requested
 
 What did your team ask the AI to help test or explain?
 
-- Response:
+- Response: To test our source code to make sure it properly ran with random values. 
 
 ## Prediction and Testing
 
 Describe one test the AI suggested. What did the team predict before running it?
 
-- Response:
+- Response: N/A
 
 ## Evaluation
 
 Did the AI's guidance match the assignment requirements and the program's actual behavior? What did the team accept, change, or reject?
 
-- Response:
+- Response: N/A
 
 ## What We Learned
 
 Describe one Python decision-making or testing concept the team understands better.
 
-- Response:
+- Response: How to put if and else and use logical operators 
 
 ## Summary
 
-- Response:
+- Response: Team worked well easy lesson and lots learned. 

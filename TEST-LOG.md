@@ -2,12 +2,12 @@
 
 ## Team Information
 
-- Team name:
-- Team members:
-- Driver:
-- Logic Checker:
-- Test Engineer:
-- Reporter:
+- Team name:Pardon my synthax
+- Team members:Daniel Salazar, Michael Asaro, Austin H
+- Driver: Daniel Salazar
+- Logic Checker: Micheal Asaro
+- Test Engineer: Austin H
+- Reporter: Shared
 
 ## Required Boundary Predictions
 
